@@ -3,4 +3,6 @@ const currentUser = 'Jonny M';
 const welcomeMessage = `Welcome to Flatbook, ${currentUser}!`;
 const excitedWelcomeMessage = welcomeMessage.toUpperCase();
 const shortGreeting = 'Welcome, ';
-const shortGreeting = 'Welcome, ' ${currentUser};
+const shortGreeting = `Welcome, ${currentUser}`;
+'Jonny M'.length;
+'Jonny M'.slice(1,6)
