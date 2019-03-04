@@ -5,4 +5,4 @@ const excitedWelcomeMessage = welcomeMessage.toUpperCase();
 const shortGreeting = 'Welcome, ';
 const shortGreeting = `Welcome, ${currentUser}`;
 currentUser.length;
-currentUser.slice(0,1)
+currentUser.slice(0,1);
